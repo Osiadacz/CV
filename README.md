@@ -1,2 +1,2 @@
 # CV
-Proyectos para mi curriculum
+Proyects for mi portfolio
