@@ -1,2 +1,2 @@
 # Portfolio
-Proyects for mi portfolio
+Basic Python proyects for my portfolio
